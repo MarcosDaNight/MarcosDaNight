@@ -1,5 +1,5 @@
 ## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Marcos Guillermo 
-
+<img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350" >
  
  🔭 I'm currently majoring in Computer Science 
  
@@ -13,6 +13,7 @@
  
 [<img src="https://img.shields.io/github/followers/MarcosDaNight?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/MarcosDaNight) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-guillermo-de-s%C3%A1-cat%C3%A3o-cosson-b4a198193/" height="23" title="LinkedIn" />](https://www.linkedin.com/in/marcos-guillermo-de-s%C3%A1-cat%C3%A3o-cosson-b4a198193/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcos.cosson@ccc.ufcg.edu.br)
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcosgdanight" height="23" title="Instagram" />](https://www.instagram.com/marcosgdanight/)
 
 #### :computer: Languages and Tools :hammer::
@@ -25,7 +26,10 @@
 <img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
 
 
-
+<div>
+  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=dracula" />
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula" />
+</div>
 
 <!--
 **MarcosDaNight/MarcosDaNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
