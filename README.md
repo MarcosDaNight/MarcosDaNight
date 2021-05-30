@@ -16,7 +16,7 @@
 
 
 <div>
-  <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula"/>
+  <img align="right" width="420px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula"/>
   <img align="rihgt"  width="390px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=dracula"/>
 </div>
 
