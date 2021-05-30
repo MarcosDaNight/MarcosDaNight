@@ -7,15 +7,12 @@
  
  👯 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
  
- 
- 
  #### 📫 How to reach me: 
  
 [<img src="https://img.shields.io/github/followers/MarcosDaNight?label=Follow%20me&style=social" height="22" title="Follow me" />](https://github.com/MarcosDaNight) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-guillermo-de-s%C3%A1-cat%C3%A3o-cosson-b4a198193/" height="23" title="LinkedIn" />](https://www.linkedin.com/in/marcos-guillermo-de-s%C3%A1-cat%C3%A3o-cosson-b4a198193/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcos.cosson@ccc.ufcg.edu.br)
 [<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcosgdanight" height="23" title="Instagram" />](https://www.instagram.com/marcosgdanight/)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-squar&logo=Gmail&logoColor=white&)](mailto:marcos.cosson@ccc.ufcg.edu.br)
 #### :computer: Languages and Tools :hammer::
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,9 +23,10 @@
 <img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
 
 
+
 <div>
-  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=dracula" />
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula" />
+  <img align="right"  width="390px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=dracula"/>
+  <img align="left" width="450px" height="250px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=dracula"/>
 </div>
 
 <!--
