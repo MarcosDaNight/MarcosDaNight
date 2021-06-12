@@ -3,7 +3,7 @@
  
  🔭 I'm currently majoring in Computer Science 
  
- 🌱I am currently learning cyber security and full stack development 
+ 🌱I am currently learning back-end and web development
  
  👯 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
  
