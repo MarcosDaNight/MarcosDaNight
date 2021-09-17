@@ -3,7 +3,7 @@
  
  🔭 I am a undergraduate student in Computer Science
  
- 🌱 I'm currently studying DevOps and Cyber Security and working on an R&D project like FullStack
+ 🌱 I'm currently studying DevOps, Cyber Security and working on an R&D project like FullStack
  
  👯 I am looking to collaborate on open source projects and subjects that can expand / improve my knowledge
  
