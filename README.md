@@ -15,24 +15,13 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="23" title="Gmail" />](mailto:marcos.cosson@ccc.ufcg.edu.br)
 
 #### 📈 Stats:
-<div>
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MarcosDaNight&&count_private=trueshow_icons=true,css&layout=compact&theme=material-palenight"/>
-  <img align="rihgt"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&count_private=true&layout=compact&theme=material-palenight"/>
-</div>
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosDaNight&show_icons=true&bg_color=0000&text_color=AAA&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarcosDaNight&theme=neon_blurange&hide_border=true&background=DD272700&stroke=296ECA&ring=296ECA&fire=296ECA&sideNums=AAAAAA&dates=296ECA&currStreakNum=AAAAAA&currStreakLabel=AAAAAA&border=296ECA&sideLabels=AAAAAA)](https://git.io/streak-stats)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDaNight&layout=compact&bg_color=0000&text_color=AAA&hide_border=true&count_private=true)
 
 ## HacktobertFest Event
 [![An image of @marcosdanight's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marcosdanight)](https://holopin.io/@marcosdanight)
-<h4 align="center"> :computer: Languages and Tools :hammer:: </h4>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/angularjs/angularjs-plain.svg"/>
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="26px" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" />
-<img align="left" alt="Python" width="26px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bash/bash-original.svg" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/c/c-original.svg" />
-
 
 
 <!--
