@@ -7,7 +7,7 @@ I'm a Software Engineer and FullStack Developer with a degree in Computer Scienc
 
 ### Interests
 
-- DevOps and Cyber Security
+- DevOps, Cyber Security and Data Science
 - Open Source Projects
 - Gaming, Series, Manga, and Anime
 
