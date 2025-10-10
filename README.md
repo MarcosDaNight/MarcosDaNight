@@ -3,7 +3,7 @@
 
 ### About Me
 ---
-I'm a **Back-end Software Engineer** passionate about building **scalable, secure, and data-intensive applications**.  
+I'm a **Site Reliability Engineer** passionate about building **scalable, secure, and data-intensive applications**.  
 With hands-on experience in **APIs, distributed systems, and DevOps practices**, I enjoy solving complex problems and designing systems that are both **reliable** and **efficient**.
 
 
